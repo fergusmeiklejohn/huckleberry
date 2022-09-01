@@ -10,14 +10,14 @@ body {
 }
 
 .max-width-wrapper {
-  max-width: 800px;
+  max-width: 820px;
   margin: 0 auto;
-  padding: 0 16px;
+  /* padding: 0 16px; */
 }
 
 .intro-chunk {
-  max-width: 400px;
-  padding: 24px 16;
+  max-width: 450px;
+  padding: 24px 24px;
 }
 
 .title {
@@ -41,14 +41,14 @@ body {
   border-style: solid;
   border: 0px solid;
   border-bottom: 8px solid hsl(0deg, 0%, 40%);
-  padding: 16px;
+  padding: 24px;
 }
 
 strong {
   color: hsl(160deg, 100%, 30%);
 }
 p {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
   line-height: 1.5;
 }
 
